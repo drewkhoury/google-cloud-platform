@@ -1,6 +1,11 @@
 Useful information about Google Cloud Products and Services.
 
-[Containers](https://cloud.google.com/containers/) - Overview
+- [Containers](https://cloud.google.com/containers/) - Overview
+- [map-aws-google-cloud-platform](https://cloud.google.com/free/docs/map-aws-google-cloud-platform)
+- [Compare Google to AWS](https://cloud.google.com/docs/compare/aws/)
+- [Medium Article](https://medium.com/@robaboukhalil/a-tale-of-two-clouds-amazon-vs-google-4f2520516a38) - Google pricing is simpler and can be cheaper. Google has more configuration options for VMs. Google UX is better ("gone are the days of region-specific dashboard")
+- [Migrate to Google Cloud](https://cloud.google.com/free/docs/frequently-asked-questions#migrating)
+
 
 # Products and Services
 
@@ -109,9 +114,7 @@ gcloud app deploy
 Local development environment (operates just like the Google App Engine but on your own machine for fast feedback during development):
 
 ```python
-dev_appserver.py \
---host 0.0.0.0 --admin_host 0.0.0.0 --port=8080 \
-app.yaml --enable_sendmail
+dev_appserver.py --host 0.0.0.0 --admin_host 0.0.0.0 --port=8080 app.yaml --enable_sendmail
 ```
 
 Cron Jobs:
@@ -208,17 +211,6 @@ The DLP API helps you better understand and manage sensitive data. It provides f
 ## [Datastore](https://cloud.google.com/datastore/)
 
 Cloud Datastore is a highly-scalable NoSQL database for your applications. Cloud Datastore automatically handles sharding and replication, providing you with a highly available and durable database that scales automatically to handle your applications' load. Cloud Datastore provides a myriad of capabilities such as ACID transactions, SQL-like queries, indexes and much more.
-
-
-
-# Misc
-
-[map-aws-google-cloud-platform](https://cloud.google.com/free/docs/map-aws-google-cloud-platform)
-[Compare Google to AWS](https://cloud.google.com/docs/compare/aws/)
-
-[Medium Article](https://medium.com/@robaboukhalil/a-tale-of-two-clouds-amazon-vs-google-4f2520516a38) - Google pricing is simpler and can be cheaper. Google has more configuration options for VMs. Google UX is better ("gone are the days of region-specific dashboard")
-
-[Migrate to Google Cloud](https://cloud.google.com/free/docs/frequently-asked-questions#migrating)
 
 # Best Practice
 
