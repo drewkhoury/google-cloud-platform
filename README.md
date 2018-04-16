@@ -113,7 +113,7 @@ gcloud app deploy
 
 Local development environment (operates just like the Google App Engine but on your own machine for fast feedback during development):
 
-```python
+```
 dev_appserver.py --host 0.0.0.0 --admin_host 0.0.0.0 --port=8080 app.yaml --enable_sendmail
 ```
 
