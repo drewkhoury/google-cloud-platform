@@ -161,8 +161,7 @@ skip_files:
 
 ## [kubernetes](https://cloud.google.com/kubernetes-engine/)
 
-**Deploy, manage, and scale containerized applications on Kubernetes, powered by Google Cloud
-**
+**Deploy, manage, and scale containerized applications on Kubernetes, powered by Google Cloud**
 
 managed environment for deploying containerized applications
 
