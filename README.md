@@ -6,6 +6,18 @@ Useful information about Google Cloud Products and Services.
 - [Medium Article](https://medium.com/@robaboukhalil/a-tale-of-two-clouds-amazon-vs-google-4f2520516a38) - Google pricing is simpler and can be cheaper. Google has more configuration options for VMs. Google UX is better ("gone are the days of region-specific dashboard")
 - [Migrate to Google Cloud](https://cloud.google.com/free/docs/frequently-asked-questions#migrating)
 
+# Distinction between AppEngine and Firebase
+
+https://medium.com/the-infinite-machine/app-engine-vs-firebase-welcome-to-bizzaro-world-24c257ef4908
+
+https://stackoverflow.com/questions/37471546/google-app-engine-vs-firebase
+
+https://cloud.google.com/solutions/mobile/mobile-app-backend-services
+https://cloud.google.com/solutions/mobile/mobile-app-backend-services#design-pattern
+
+https://www.quora.com/What-is-the-difference-between-Google-App-Engine-Firebase-and-Google-Endpoints
+
+https://cloud.google.com/solutions/mobile/mobile-firebase-app-engine-flexible
 
 # Products and Services
 
